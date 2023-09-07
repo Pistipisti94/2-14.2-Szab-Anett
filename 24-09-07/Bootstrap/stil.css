@@ -1,0 +1,21 @@
+h1 {
+    font-size: 5vw;
+}
+
+nav {
+    font-size: 2vw;
+}
+
+div {
+    border: 1px black solid;
+    color: red;
+}
+
+img {
+    height: 70px;
+}
+a{
+    font-family: fantasy;
+    font-style: italic;
+    box-shadow: 10px 10px 0px 0px;
+}
